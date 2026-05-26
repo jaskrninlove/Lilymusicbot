@@ -85,7 +85,7 @@ class Config:
         self.PING_IMG: str = getenv(
             "PING_IMG", "https://i.pinimg.com/736x/8b/03/73/8b03739249e7fdbba7e4f046dea48988.jpg")    # Ping command image
         self.START_IMG: str = getenv(
-            "START_IMG", "https://i.pinimg.com/736x/7e/5d/b1/7e5db1dd99e86cb19c554f75d1eb9df5.jpg")  # Start command image
+            "START_IMG", "https://i.pinimg.com/736x/88/f3/c0/88f3c0b269e23879e252f3f1f15e7a74.jpg")  # Start command image
         self.RADIO_IMG: str = getenv(
             "RADIO_IMG", "https://i.pinimg.com/736x/a4/2c/24/a42c24e52997678de8ee4455a92dd727.jpg")    # Radio command image
 
