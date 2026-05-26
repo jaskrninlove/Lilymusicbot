@@ -10,8 +10,5 @@ python-dotenv~=1.2.1
 yt-dlp[default]>=2026.3.3
 ffmpeg
 yt-dlp
-pyrogram
+tgcrypto
 pytubefix
-httpx==0.27.0
-httpcore==1.0.5
-youtube-search-python==1.6.6
